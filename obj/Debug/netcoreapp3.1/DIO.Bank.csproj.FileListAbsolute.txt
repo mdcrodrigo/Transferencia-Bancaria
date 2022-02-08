@@ -1,0 +1,13 @@
+/home/eliezer/sandbox/dio/Bank/bin/Debug/netcoreapp3.1/Bank
+/home/eliezer/sandbox/dio/Bank/bin/Debug/netcoreapp3.1/Bank.deps.json
+/home/eliezer/sandbox/dio/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.json
+/home/eliezer/sandbox/dio/Bank/bin/Debug/netcoreapp3.1/Bank.runtimeconfig.dev.json
+/home/eliezer/sandbox/dio/Bank/bin/Debug/netcoreapp3.1/Bank.dll
+/home/eliezer/sandbox/dio/Bank/bin/Debug/netcoreapp3.1/Bank.pdb
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.csprojAssemblyReference.cache
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfoInputs.cache
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.AssemblyInfo.cs
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.csproj.CoreCompileInputs.cache
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.dll
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.pdb
+/home/eliezer/sandbox/dio/Bank/obj/Debug/netcoreapp3.1/Bank.genruntimeconfig.cache
